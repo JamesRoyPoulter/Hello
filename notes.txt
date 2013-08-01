@@ -1,0 +1,29 @@
+Messages
+  sender_id
+  reciever_id
+  content
+
+User
+  firstname
+  lastname
+  nickname
+  username
+  dateofbirth
+  photo
+  email
+  city
+  country
+  occupation
+  snippet
+  
+
+Interests
+  *sign in with Google
+    - registration email
+
+Friendly URLs
+
+Ember?
+Bootstrap
+Underscore
+jQuery
